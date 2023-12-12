@@ -3,7 +3,7 @@ WS 23 - Wiederholung, Schleifen, Arrays
 
 ### 📝 Aufgabe:
 
-1. 🤖 Degubber und Arrays
+1. 🤖 Debugger und Arrays
    -  erstellt ein ```int Array``` der größe 10.
    -  füllt das Array mit den Zahlen 0-9 (nutzt dafür eine Schleife)
    -  setzt einen ```breakpoint``` vor der Schleife
